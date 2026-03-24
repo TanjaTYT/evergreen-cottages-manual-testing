@@ -1,2 +1,29 @@
-# evergreen-cottages-manual-testing
-Manual QA testing project for Evergreen Cottages website including bug reports, test cases, and test summary.
+# Evergreen Cottages Manual Testing Project
+## Project Overview
+
+Manual testing project performed on:
+https://www.evergreencottages.bg/bg  
+
+## Testing Scope
+- Desktop testing
+- Mobile testing
+- UI testing
+- Functional testing
+- Navigation testing
+- Content validation
+## Deliverables
+- Bug Reports
+- Test Cases
+- Test Summary
+- Screenshots
+## Severity Levels Used
+- Critical
+- High
+- Medium
+- Low
+## Tools Used
+- Manual Testing
+- Browser Developer Tools
+## Project Goal
+
+To identify functional, visual, and content-related defects in desktop and mobile versions of the website.
