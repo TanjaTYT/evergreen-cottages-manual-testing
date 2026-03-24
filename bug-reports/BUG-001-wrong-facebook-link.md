@@ -1,31 +1,33 @@
-№ BUG-001 Wrong Facebook Link
-№№ Environment
+# BUG-001 Wrong Facebook Link
+## Environment
 - Desktop
 - Mobile
-№№ Severity
+## Severity
 
 Critical
 
-№№ Priority
+## Priority
 
 High
 
-№№ Preconditions
+## Preconditions
 
 Website homepage is accessible.
 
-№№ Steps to Reproduce
+## Steps to Reproduce
 1. Open homepage
 2. Scroll to footer section
 3. Click Facebook link
-№№ Expected Result
+## Expected Result
 
 Official Facebook page opens.
+https://www.facebook.com/evergreencottagesbg  
 
-№№ Actual Result
+## Actual Result
 
 Incorrect Facebook page opens.
+https://www.facebook.com/evergreen.bg  
 
-№№ Status
+## Status
 
 Open
