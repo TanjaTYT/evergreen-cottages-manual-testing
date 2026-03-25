@@ -3,6 +3,11 @@
 
 Verify that the active page is visually highlighted in the navigation menu.
 
+## Environment
+
+- Desktop  
+- Mobile
+
 ## Preconditions
 
 Website homepage is accessible.
