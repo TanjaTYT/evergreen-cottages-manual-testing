@@ -3,6 +3,11 @@
 
 Verify that the privacy policy page contains complete legal information.
 
+## Environment
+
+- Desktop  
+- Mobile
+
 ## Preconditions
 
 Website homepage is accessible.
