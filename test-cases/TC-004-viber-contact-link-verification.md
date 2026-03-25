@@ -5,7 +5,6 @@ Verify that the Viber contact link triggers a valid contact action.
 
 ## Environment
 
-- Desktop  
 - Mobile
 
 ## Preconditions
