@@ -28,6 +28,16 @@ https://www.facebook.com/evergreencottagesbg
 Incorrect Facebook page opens.
 https://www.facebook.com/evergreen.bg  
 
+## Screenshots
+
+### Source link location
+
+![Facebook source link](../screenshots/bug-001-facebook-link-source.png)
+
+### Wrong destination page
+
+![Wrong Facebook page](../screenshots/bug-001-facebook-link-result.png)
+
 ## Status
 
 Open
