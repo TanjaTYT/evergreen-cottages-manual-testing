@@ -1,7 +1,11 @@
 # Screenshots
 
-This folder contains screenshot evidence related to reported defects.
+This folder contains visual evidence used in selected bug reports.
 
-## Usage
+## Included
 
-Screenshots are linked to specific bug reports where visual confirmation is needed.
+- BUG-001 wrong Facebook link screenshots
+
+## Purpose
+
+Screenshots are attached only where visual proof adds value to defect documentation.
