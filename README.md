@@ -11,7 +11,7 @@ https://www.evergreencottages.bg/bg
 - Functional testing
 - Navigation testing
 - Content validation
-## Deliverables
+## Documentation Included
 - Bug Reports
 - Test Cases
 - Test Summary
